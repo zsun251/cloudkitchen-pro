@@ -77,8 +77,8 @@ Every endpoint except register, login, logout, and the language list needs an `A
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/zsun251/FIT2095-Full-stack-development.git
-cd FIT2095-Full-stack-development
+git clone https://github.com/zsun251/cloudkitchen-pro.git
+cd cloudkitchen-pro
 ```
 
 All commands below start from the repository root.
